@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Kariudo: MyString
+  room_id: 1
+  user_id: 1
+
+two:
+  Kariudo: MyString
+  room_id: 1
+  user_id: 1
